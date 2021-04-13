@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "gO0V0Lm5GtXK0F4d2ttaetzrab8BEXvKoPZRy2rLhBKOx4O7F+o9hw5eKeq5ppAlLt084sYf/z+V3fINMWCsWA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\qwer1\\2021\\Cs\\HelloUWP\\HelloUWP.Core\\HelloUWP.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\qwer1\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\qwer1\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

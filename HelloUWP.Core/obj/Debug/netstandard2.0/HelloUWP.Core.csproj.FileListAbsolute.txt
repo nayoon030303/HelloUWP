@@ -1,0 +1,9 @@
+C:\Users\qwer1\2021\C#\HelloUWP\HelloUWP.Core\bin\Debug\netstandard2.0\HelloUWP.Core.deps.json
+C:\Users\qwer1\2021\C#\HelloUWP\HelloUWP.Core\bin\Debug\netstandard2.0\HelloUWP.Core.dll
+C:\Users\qwer1\2021\C#\HelloUWP\HelloUWP.Core\bin\Debug\netstandard2.0\HelloUWP.Core.pdb
+C:\Users\qwer1\2021\C#\HelloUWP\HelloUWP.Core\obj\Debug\netstandard2.0\HelloUWP.Core.csprojAssemblyReference.cache
+C:\Users\qwer1\2021\C#\HelloUWP\HelloUWP.Core\obj\Debug\netstandard2.0\HelloUWP.Core.AssemblyInfoInputs.cache
+C:\Users\qwer1\2021\C#\HelloUWP\HelloUWP.Core\obj\Debug\netstandard2.0\HelloUWP.Core.AssemblyInfo.cs
+C:\Users\qwer1\2021\C#\HelloUWP\HelloUWP.Core\obj\Debug\netstandard2.0\HelloUWP.Core.csproj.CoreCompileInputs.cache
+C:\Users\qwer1\2021\C#\HelloUWP\HelloUWP.Core\obj\Debug\netstandard2.0\HelloUWP.Core.dll
+C:\Users\qwer1\2021\C#\HelloUWP\HelloUWP.Core\obj\Debug\netstandard2.0\HelloUWP.Core.pdb
